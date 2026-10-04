@@ -1,0 +1,10 @@
+t=87: cache full, evicting page 8. It was last used 71 accesses ago and was touched 1 times in the last 200 accesses, so I expect it not to be needed in the next 64 accesses. Self-rated confidence: 0.98.
+t=88: cache full, evicting page 11. It was last used 60 accesses ago and was touched 1 times in the last 200 accesses, so I expect it not to be needed in the next 64 accesses. Self-rated confidence: 0.98.
+t=89: cache full, evicting page 10. It was last used 48 accesses ago and was touched 1 times in the last 200 accesses, so I expect it not to be needed in the next 64 accesses. Self-rated confidence: 0.98.
+t=90: cache full, evicting page 13. It was last used 44 accesses ago and was touched 1 times in the last 200 accesses, so I expect it not to be needed in the next 64 accesses. Self-rated confidence: 0.98.
+t=91: cache full, evicting page 100. It was last used 16 accesses ago and was touched 1 times in the last 200 accesses, so I expect it not to be needed in the next 64 accesses. Self-rated confidence: 0.98.
+t=5000: cache full, evicting page 267. It was last used 225 accesses ago and was touched 0 times in the last 200 accesses, so I expect it not to be needed in the next 64 accesses. Self-rated confidence: 0.95.
+t=5002: cache full, evicting page 61. It was last used 2 accesses ago and was touched 1 times in the last 200 accesses, so I expect it not to be needed in the next 64 accesses. Self-rated confidence: 0.98.
+t=5003: cache full, evicting page 268. It was last used 227 accesses ago and was touched 0 times in the last 200 accesses, so I expect it not to be needed in the next 64 accesses. Self-rated confidence: 0.95.
+t=5008: cache full, evicting page 269. It was last used 231 accesses ago and was touched 0 times in the last 200 accesses, so I expect it not to be needed in the next 64 accesses. Self-rated confidence: 0.95.
+t=5009: cache full, evicting page 270. It was last used 231 accesses ago and was touched 0 times in the last 200 accesses, so I expect it not to be needed in the next 64 accesses. Self-rated confidence: 0.95.

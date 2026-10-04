@@ -1,0 +1,7 @@
+policy,phase,decisions,accuracy,mean_conf_correct,mean_conf_wrong,ECE(all)
+Learned-DT (static),before,13750,0.982,0.99,0.97,
+Learned-DT (static),after,37258,0.814,0.579,0.592,
+Learned-DT (static),all,51008,0.859,0.706,0.606,0.233
+Learned-DT (online),before,13643,0.963,0.973,0.906,
+Learned-DT (online),after,36852,0.825,0.912,0.916,
+Learned-DT (online),all,50495,0.862,0.931,0.915,0.086
